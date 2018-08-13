@@ -1,0 +1,207 @@
+
+
+
+body { 
+    margin: 0;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+@media only screen and (max-width: 600px) {
+margin: 0;
+    max-width: 100%;
+    transform: scale(1.5);
+    overflow-x: hidden;
+} 
+/* logo container padding on right so it doesn't hit the toggle */
+   
+p{
+    font-size: 1.5vw;
+    width: 100%;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 200;
+    line-height: 2.2vw;
+}
+
+h1{
+   padding-top: 2vw;
+    font-size: 5vw;
+    padding-left: 8vw;
+     font-family: 'Coustard', serif;
+}
+
+a{
+    color: #349392;
+     font-family: 'Josefin Sans', sans-serif;
+}
+    
+#main{
+    width: 100%;
+        margin: 0;
+      }
+#title{
+    font-family: 'Coustard', serif;
+    font-weight: 400;
+    font-size: 6vw;
+    color: white;
+    position: absolute;
+    padding-top: 34vw;
+    padding-left: 14vw;
+}
+
+#clouds{
+    position: absolute;
+    margin-top: 10vw;
+    width:100%;
+}
+#city{
+    align-content: center;
+    width: 100%;
+}
+
+
+#subtitle{
+    text-align: center;
+    font-size: 1.5vw;
+    font-family: sans-serif;
+    position: relative;
+}
+    
+#plant{
+    width: 100%;
+
+}
+#sub{
+    width: 100%;
+    margin-top: -10vw;
+}
+
+#ourMission{
+    font-size: 5vw;
+    font-weight: 100;
+}
+#rounds{
+    position: relative;
+    transform: scale(.7);
+    margin-top: -11vw;
+}
+
+.row{
+    padding-left: 5vw;
+    padding-right: 10vw;
+}
+
+#roundMid{
+    align-content: center;
+}
+
+.carousel{
+    width: 80%;
+    transition: .4s;
+    margin: auto;
+}
+.carousel:hover{
+    transform: scale(1.1);
+}
+
+#netPlant{
+    padding-top: 15vw;
+    padding-left: 8vw;
+    padding-bottom: 9vw;
+    background-color: #7585C3;
+    width: 110%;
+    margin-top: -7vw;
+    margin-left: -3.7vw;
+    color:white;
+}
+
+
+#networksDiv{
+    background-image: linear-gradient(#00F0E3, white, #00F0E3);
+    margin-left: -4.7vw;
+    width: 110%;
+    margin-top: -13vw;
+    padding-top: 10vw;
+}
+
+#subDiv{
+    padding-bottom: 10vw;
+    width: 50%;
+}
+#spectraDiv{
+    background-color: #020360;
+    color: white;
+    margin-left: -3.7vw;
+    width: 110%;
+    padding-bottom: 15vw;
+    padding-top:9vw;
+    margin-top: -11vw;
+}
+
+#buttonCSS{
+    margin-left: 13vw;
+    margin-top: 5vw;
+    width: 50%;
+    font-size: 2vw;
+    font-family: 'Josefin Sans', sans-serif;
+    transition: .3s;
+}
+
+#buttonCSS:hover{
+    background-color: #BFFFFE;
+    color:darkslategray;
+}
+
+#buttonCSS2{
+    margin-left: 13vw;
+    margin-top: 5vw;
+    width: 50%;
+    font-size: 2vw;
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: bisque;
+    border-color: bisque;
+}
+
+#buttonCSS2:hover{
+    background-color: darkgoldenrod;
+    color: white;
+}
+
+#bioHeader{
+    color: white;
+    text-align: center;
+    margin-right: 16vw;
+
+}
+hr{
+
+}
+#bios{
+    margin-left: -3.7vw;
+    width: 110%;
+    padding-bottom: 15vw;
+    padding-top:25vw;
+    margin-top: -26vw;
+    background-color: #349392;
+    padding-right: 4vw;
+}
+
+#bioItemB{
+background-color: #FFE5BF;
+padding-top: 5vw;
+padding-bottom: 5vw;
+color: #349392;
+}
+
+#bioItemA{
+padding-top: 5vw;
+padding-bottom: 5vw;
+color: #FFE5BF;
+}
+
+h2{
+     font-family: 'Coustard', serif;
+    font-size: 4vw;
+    text-align: center;
+}
+
