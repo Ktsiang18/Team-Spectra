@@ -1,5 +1,5 @@
 # Team-Spectra
-Frontend animated website to showcase educational video games built in C# with Unity.  Built with Bootstrap, CSS animations and HTML.
+Website showcasing two educational video games built in C# with Unity.  The first, 'Cable Ranger', teaches the player about internet infrastructure by having them repair underwater cables and fix broken satellites. The second, 'Spectra', is a color game where the player must use their knowledge of the color wheel to defeat the enemy.  Built with Bootstrap, CSS animations and HTML.
 
 Link: teamspectra.online
 #
